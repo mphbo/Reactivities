@@ -1,0 +1,12 @@
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

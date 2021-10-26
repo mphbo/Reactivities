@@ -1,0 +1,15 @@
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/home/the-scepter/Web/.NET-react/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb

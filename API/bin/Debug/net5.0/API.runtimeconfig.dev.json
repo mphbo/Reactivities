@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/the-scepter/.dotnet/store/|arch|/|tfm|",
+      "/home/the-scepter/.nuget/packages"
+    ]
+  }
+}
